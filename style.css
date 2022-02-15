@@ -63,3 +63,12 @@
         box-shadow: -5px -5px 12px  #fff,
                     5px  5px 12px rgba(0, 0, 0,.16);
     }
+
+    p{
+        display: flex;
+    }
+
+    span{
+        display: flex;
+        margin-right: 5px;
+    }
